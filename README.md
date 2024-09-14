@@ -1,1 +1,1 @@
-# event-planner-calendar
+# event-planner/calendar
